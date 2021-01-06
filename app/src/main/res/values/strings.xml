@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">ViewsImplementation</string>
+    <string-array name="programming_name">
+        <item>java</item>
+        <item>C++</item>
+        <item>Pythone</item>
+        <item>MSOffice</item>
+        <item>MSWord</item>
+        <item>MsPowerpoint</item>
+         <item>Digital Marketing</item>
+
+
+    </string-array>
+    <string-array name="programming_Description">
+
+        <item>java from Basics to Advance level</item>
+        <item>C++ basic to advance</item>
+        <item>Pythone basic to advance </item>
+        <item>MSOffice basic to advance</item>
+        <item>MSWord basic to advance</item>
+        <item>MsPowerpoint basic to advance</item>
+         <item>Digital Marketing basic to advance</item>
+
+    </string-array>
+    <string-array name="programming_Price">
+
+        <item>Rs 2500</item>
+        <item>Rs 3500</item>
+
+        <item>Rs 4500</item>
+
+        <item>Rs 5500</item>
+
+        <item>Rs 6500</item>
+
+        <item>Rs 62500</item>
+
+        <item>Rs 82500</item>
+
+
+    </string-array>
+</resources>

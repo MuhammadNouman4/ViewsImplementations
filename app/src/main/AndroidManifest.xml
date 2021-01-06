@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.nomitech.viewsimplementation">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Muhammad Nouman"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".RecyclerViewImplementation">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+        <activity android:name=".ViewStubImplementation" />
+        <activity android:name=".ViewFliperImplementation" />
+        <activity android:name=".AdapterviewFlipperImple" />
+        <activity android:name=".ViewANimationImplementation" />
+        <activity android:name=".TextViewImplementation" />
+        <activity android:name=".ScrollViewImplementation" />
+        <activity android:name=".SearchViewImplementation" />
+        <activity android:name=".VideoViewImplemetation"/>
+        <activity android:name=".CheckedTextView" />
+        <activity android:name=".calenderviewImplement" />
+        <activity android:name=".webviewImplem" />
+        <activity android:name=".ImageviewImplem" />
+        <activity android:name=".MainActivity" />
+    </application>
+
+</manifest>
